@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CodeFileType>UserdefinedDataType</CodeFileType>
+  <CodeDirtyType>Unknown</CodeDirtyType>
+  <Name>Anwenderdatentyp_1</Name>
+  <Extension>udt</Extension>
+  <Path>Gruppe_1/</Path>
+  <HasAttribute>false</HasAttribute>
+  <CodeFileLanguage>Scl</CodeFileLanguage>
+  <SubEntry>types</SubEntry>
+  <Dependencies />
+</CodeFile>

@@ -1,0 +1,9 @@
+﻿TYPE "Anwenderdatentyp_1"
+VERSION : 0.1
+   STRUCT
+      A : Byte;
+      B : Byte;
+   END_STRUCT;
+
+END_TYPE
+

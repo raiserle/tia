@@ -1,0 +1,13 @@
+﻿FUNCTION_BLOCK "GetSomeBullshit"
+{ S7_Optimized_Access := 'TRUE' }
+VERSION : 0.1
+   VAR 
+      Auch { S7_SetPoint := 'False'} : "Anwenderdatentyp_1";
+      Und : "Anwenderdatentyp_1";
+   END_VAR
+
+
+BEGIN
+	(* 1st edit *)
+END_FUNCTION_BLOCK
+
