@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CodeFileType>FunctionBlock</CodeFileType>
+  <CodeDirtyType>Unknown</CodeDirtyType>
+  <Name>OtherBullshit</Name>
+  <Extension>scl</Extension>
+  <Path>1_System/11_Fs/</Path>
+  <HasAttribute>false</HasAttribute>
+  <CodeFileLanguage>Scl</CodeFileLanguage>
+  <SubEntry>blocks</SubEntry>
+  <Dependencies>
+    <CodeFileDependency>
+      <SymbolicName>Anwenderdatentyp_1</SymbolicName>
+    </CodeFileDependency>
+  </Dependencies>
+</CodeFile>
