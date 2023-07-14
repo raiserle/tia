@@ -1,4 +1,4 @@
-﻿FUNCTION_BLOCK "GetSomeBullshit"
+﻿FUNCTION_BLOCK "AgainBullshit"
 { S7_Optimized_Access := 'TRUE' }
 VERSION : 0.1
    VAR 
@@ -8,9 +8,8 @@ VERSION : 0.1
 
 
 BEGIN
-	(* 1st edit *)
-	(* 2nd edit *)
-	(* 3rd edit *)
 	(* 4th edit *)
+	(* 5th edit *)
+	(* 6th edit *)
 END_FUNCTION_BLOCK
 
